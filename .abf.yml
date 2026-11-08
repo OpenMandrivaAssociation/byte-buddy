@@ -1,2 +1,4 @@
 sources:
+  byte-buddy-1.18.17.tar.gz: f41a8b2676070c84800657600da0edbe992afe92
+removed_sources:
   byte-buddy-1.17.7.tar.gz: 3696dcd2ab4fdbcd29432476a5b90bb200e5b68d
